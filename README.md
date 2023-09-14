@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 💬 Ask me about **Mobile Application Development, AI/ML, IoT**
+- 💬 Ask me about **Mobile Application Development, AI/ML, 
 
 - 📫 How to reach me **noorillahi@fastechsystem.co**
 
